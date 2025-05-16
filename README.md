@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavrai7777" alt="vaibhavrai7777" /></a> </p>
 
-- 🔭 I’m currently working on *Dating website*
+- 🔭 I’m currently working on *Replica of Educational website*
 
 - 💬 Ask me about c,c++,html,javascript,php,css,python,node.js,react.js*
 
