@@ -1,21 +1,21 @@
 ![logo](https://github.com/user-attachments/assets/eddab79f-2b30-4eb9-a7db-7ec0647ea230)
 
 
-##  Bonjour!🙏.
+##  Bonjour!.
 
 <h1 align="center">Hi , I'm Vaibhav Rai</h1>
-<h3 align="center">-  - 🚀Developer  Problem Solver  Lifelong Learner
+<h3 align="center">-  - Developer  Problem Solver  Lifelong Learner
 - -</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavrai7777&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavrai7777" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavrai7777" alt="vaibhavrai7777" /></a> </p>
 
-- 🔭 I’m currently working on *Replica of Educational website*
+-  I’m currently working on *Replica of Educational website*
 
-- 💬 Ask me about c,c++,html,javascript,php,css,python,node.js,react.js*
+-  Ask me about c,c++,html,javascript,php,css,python,node.js,react.js*
 
-- 📫 How to reach me *raj930627@gmail.com*
+-  How to reach me *raj930627@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
